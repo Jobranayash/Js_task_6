@@ -1,1 +1,4 @@
-# Js_task_6
+# Homework 6 JavaScript Course ❤️
+
+### Jobran Ayash
+### Majd Bathiesh
